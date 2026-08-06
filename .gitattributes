@@ -1,0 +1,9 @@
+"boot.img" filter=lfs diff=lfs merge=lfs -text
+"cust/app/customized/partner-in.mohalla.video_168/partner-in.mohalla.video_168.apk" filter=lfs diff=lfs merge=lfs -text
+"product/priv-app/GmsCore/GmsCore.apk" filter=lfs diff=lfs merge=lfs -text
+"product/priv-app/Velvet/Velvet.apk" filter=lfs diff=lfs merge=lfs -text
+"recovery.img" filter=lfs diff=lfs merge=lfs -text
+"system/system/apex/com.android.vndk.current.apex" filter=lfs diff=lfs merge=lfs -text
+"system/system/priv-app/MiuiCamera/MiuiCamera.apk" filter=lfs diff=lfs merge=lfs -text
+"system_ext/priv-app/Settings/Settings.apk" filter=lfs diff=lfs merge=lfs -text
+"vendor/camera/mimoji/model2.zip" filter=lfs diff=lfs merge=lfs -text
